@@ -1,0 +1,20 @@
+**.log
+**/target
+**/.classpath
+**/.project
+**/.factorypath
+
+# IDE
+.idea/**
+**.iml
+.vscode/**
+
+# gradle
+.gradle/**
+gradle/**
+
+# mqtt client java
+*.lck
+
+# file system
+.DS_Store
